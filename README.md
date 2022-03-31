@@ -1,7 +1,7 @@
 # Java_Collections
 ### License
 
-- [MIT License](https://github.com/2000090063/My-Portfolio/blob/main/LICENSE) 
+- [MIT License](https://github.com/2000090063/Java_Collections/blob/main/LICENSE) 
 
 Copyright (c) 2022 Karthik Reddy Veluru
 
