@@ -22,7 +22,8 @@ class Arraylist {
 		if(ar.contains(7))
 			System.out.println("index ids:"+ar.indexOf((7)));
 		Set<Integer>s=new HashSet(ar);
-		for(int i:s)
+		
+		for(int i:s)       //------>using for each method for collections
 			System.out.println(i);
 		ar.forEach(( i)->System.out.print(" "+i));
 
