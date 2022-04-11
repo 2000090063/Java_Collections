@@ -25,7 +25,7 @@ class GFG {
 		hs.add("E");
 
 		// Printing initial Set elements
-		System.out.println("Initial HashSet " + hs);
+		System.out.println(" Initial HashSet " + hs);
 
 		// Removing custom element
 		// using remove() method
