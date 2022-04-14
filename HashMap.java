@@ -11,7 +11,7 @@ public class Collections {
 	   for(int i=0;i<7;i++)
 		   a[i]=sc.nextInt();
 	   for(int i=0;i<7;i++)
-	   {  if(!mp.containsKey(a[i]))
+	   {  if(mp.put(a[i])==null)
 		   mp.put(a[i],1);
 	      else
 		  mp.put(a[i], mp.get(a[i])+1);
